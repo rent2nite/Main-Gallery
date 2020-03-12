@@ -1,9 +1,10 @@
 # Project Name
 # Main-Gallery
 
-Module that displays photos of current item 
-
 > Project description
+
+This is the main repository for the Main-Gallery Module that displays photos of current rental unit.
+
 
 ## Related Projects
 
